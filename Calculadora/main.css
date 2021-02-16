@@ -1,0 +1,11 @@
+body{
+    /*background: linear-gradient(to bottom,
+    rgb(255, 0, 234),
+    red,
+    black,
+    yellow);*/
+    background-repeat: no-repeat;
+}
+.botao{
+    color: blue;
+}
