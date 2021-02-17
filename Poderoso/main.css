@@ -1,0 +1,87 @@
+
+header{
+    height: 180px;
+    color: white;
+    
+   
+}
+button{
+    
+    align-items: center;
+}
+
+
+body { 
+background-size: 100%;
+background-repeat: no-repeat;
+background-image: url("https://www.transparenttextures.com/patterns/shattered.png"),
+linear-gradient(to bottom,
+rgb(52,11,88),
+rgb(42,67,114),
+rgb(24,103,131),
+rgb(14,133,148),
+rgb(6,168,167),
+rgb(153,219,217),
+rgb(231,246,246));
+background-size: 100% 100%;
+
+}
+#formulario{
+    height: 500px;
+}
+input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: rgb(185, 179, 179);
+    background-color: transparent; 
+    width: 300px;  
+        
+}
+::-webkit-input-placeholder {
+    color: whitesmoke;
+ }
+ 
+ :-moz-placeholder { /* Firefox 18- */
+    color: whitesmoke;  
+ }
+ 
+ ::-moz-placeholder {  /* Firefox 19+ */
+    color: whitesmoke;  
+ }
+ 
+ :-ms-input-placeholder {  
+    color: whitesmoke;  
+ }
+form{
+    padding-left: 50px;
+}
+button{
+    color: white;
+    background-color: rgb(82, 82, 240);
+    width: 100px;
+    height: 30px;
+    margin-top: 50px;
+    border-radius: 30px;
+}
+#nome{
+height: 70px;
+}
+
+#tel{
+    height: 70px;
+    }
+
+#email{
+    height: 70px;
+}
+
+#senha{
+    height: 70px;
+    }
+
+footer{
+   height: 50px;
+   line-height: 100px;
+   margin: 0%;
+}    
